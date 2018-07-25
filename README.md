@@ -10,7 +10,8 @@ Here's some of the things I have coded in my spare time
 
 A simple app to manage games you want to play/acquire in the future.
 
-
+<br/>
+<br/>
 
 ## Currently Working On
 
