@@ -9,3 +9,9 @@ Here's some of the things I have coded in my spare time
 ### [Game Wish List](https://mantasvis.github.io/GameWishlist)
 
 A simple app to manage games you want to play/acquire in the future.
+
+## Currently Working On
+
+### [Chat Room](https://mantasvis.github.io/ChatRoom)
+
+A chat room that allows people to chat while on the same LAN connection
