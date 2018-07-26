@@ -17,4 +17,4 @@ A simple app to manage games you want to play/acquire in the future.
 
 ### [Chat Room](https://mantasvis.github.io/ChatRoom)
 
-A chat room that allows people to chat while on the same LAN connection
+An instang messager that allows people to chat.
