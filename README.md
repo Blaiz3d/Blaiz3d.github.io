@@ -15,6 +15,6 @@ A simple app to manage games you want to play/acquire in the future.
 
 ## Currently Working On
 
-### [Chat Room](https://mantasvis.github.io/ChatRoom)
+### [Chat Room](https://mantasvis.github.io/ChatRoomServer/)
 
 An instang messager that allows people to chat.
